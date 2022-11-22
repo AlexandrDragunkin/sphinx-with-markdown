@@ -1,0 +1,5 @@
+sphinx
+mock
+myst-parser
+python_docs_theme
+
